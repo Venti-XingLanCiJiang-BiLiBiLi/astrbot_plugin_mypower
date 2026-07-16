@@ -4,7 +4,7 @@ desc: 一款随机生成超能力的插件
 short_desc: 随机生成超能力
 version: v1.1.0
 author: TianYi (移植至 ASTRBOT)
-repo: https://github.com/tianyisama/nonebot_plugin_mypower
+repo: https://github.com/Venti-XingLanCiJiang-BiLiBiLi/astrbot_plugin_mypower
 source_repo: https://github.com/tianyisama/nonebot_plugin_mypower
 license: MIT
 support_platforms:
