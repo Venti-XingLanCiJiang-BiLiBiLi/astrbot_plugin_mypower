@@ -1,5 +1,7 @@
 # 我的超能力
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 一款随机生成超能力的 ASTRBOT 插件（适用于 OneBot V11）。
 
 ## 简介
@@ -83,3 +85,8 @@ pip install pillow
 ## 开源
 
 本项目基于 [nonebot_plugin_mypower](https://github.com/tianyisama/nonebot_plugin_mypower) 移植，遵循 MIT 协议。
+
+来源与致谢
+
+- 参考仓库： https://github.com/tianyisama/nonebot_plugin_mypower
+- 本项目在保留原作者贡献的同时，遵循 MIT 许可证要求，已在仓库中包含 LICENSE 文件以示声明。
