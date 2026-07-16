@@ -8,31 +8,12 @@
 
 从四个素材文件夹（超能力/但是/主义/万圣节）中各随机选取一张图片，垂直拼接成一张超能力卡片并发送到群聊。
 
-## 更新日志
-
-### v1.1.0
-
-- **唤醒词**：`trigger_keyword` 改为列表类型，可配置多个唤醒词，匹配任意一个即可触发
-- **冷却机制**：新增 5 分钟冷却时间（CD），冷却期间回复剩余等待时间
-- **管理员豁免**：新增 `admin_uids` 配置项，管理员不受 CD 限制
-- **素材清理**：已按照平台合规要求清理不适宜的素材图片
-
-### v1.0.0
-
-- 从 Hoshino 移植至 ASTRBOT 的初始版本
-- 支持 `我的超能力` 指令随机生成超能力卡片
-- 四类素材：超能力 / 但是 / 主义 / 万圣节
-
 ## 安装
 
-1. 将 `astrbot_plugin_mypower` 文件夹放置到 ASTRBOT 的 `addons/` 目录下
-2. 安装依赖：
+- 使用仓库链接https://github.com/Venti-XingLanCiJiang-BiLiBiLi/astrbot_plugin_mypower以获取最新版本插件
 
-```bash
-pip install pillow
-```
+- 或下载source code.zip并导入AstrBot以安装
 
-3. 重启 ASTRBOT 即可
 
 ## 配置
 
@@ -90,3 +71,18 @@ pip install pillow
 
 - 参考仓库： https://github.com/tianyisama/nonebot_plugin_mypower
 - 本项目在保留原作者贡献的同时，遵循 MIT 许可证要求，已在仓库中包含 LICENSE 文件以示声明。
+
+## 更新日志
+
+### v1.1.0
+
+- **唤醒词**：`trigger_keyword` 改为列表类型，可配置多个唤醒词，匹配任意一个即可触发
+- **冷却机制**：新增 5 分钟冷却时间（CD），冷却期间回复剩余等待时间
+- **管理员豁免**：新增 `admin_uids` 配置项，管理员不受 CD 限制
+- **素材清理**：已按照平台合规要求清理不适宜的素材图片
+
+### v1.0.0
+
+- 从 Hoshino 移植至 ASTRBOT 的初始版本
+- 支持 `我的超能力` 指令随机生成超能力卡片
+- 四类素材：超能力 / 但是 / 主义 / 万圣节
