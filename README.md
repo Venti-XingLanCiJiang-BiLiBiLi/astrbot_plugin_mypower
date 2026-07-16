@@ -10,7 +10,7 @@
 
 ## 安装
 
-- 使用仓库链接https://github.com/Venti-XingLanCiJiang-BiLiBiLi/astrbot_plugin_mypower以获取最新版本插件
+- 使用仓库链接 https://github.com/Venti-XingLanCiJiang-BiLiBiLi/astrbot_plugin_mypower 以获取最新版本插件
 
 - 或下载source code.zip并导入AstrBot以安装
 
